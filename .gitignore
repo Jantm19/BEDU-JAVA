@@ -1,0 +1,9 @@
+# Ignorar archivos de macOS
+.DS_Store
+
+# Ignorar directorios de macOS
+.AppleDouble
+.LSOverride
+
+# Ignorar archivos generados por el Finder
+Icon?
